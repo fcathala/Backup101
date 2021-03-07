@@ -64,3 +64,7 @@ At the end of the script, should it be for the PC or Mac platform, you should ma
 When correctly installed, launching a backup is as simple as executing a script (backup101.sh on a Mac, backup101.cmd on a PC). Then, when needed (hopefully never), you can go and browse your backup folders collection to pull the file(s) you need from a local backup done at a certain time (backup.101, backup.102, etc...).
 
 Have fun!
+
+## Useful Links
+* [Defining a backup strategy](https://searchdatabackup.techtarget.com/definition/backup)
+* [The interest of testing](https://searchdatabackup.techtarget.com/tip/Top-3-backup-and-recovery-requirements-for-data-protection)
