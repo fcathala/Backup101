@@ -20,30 +20,30 @@ You are expected to be dealing with a Project folder first. This folder is expec
 
 ```
 C:\USERS\<YOUR_NAME>\<PROJECT_NAME>
-│   Hello_0.txt                                                                                                                                                           
-├───Boom                                                                                                                                                                  
-│       Hello.txt                                                                                                                                                         
-├───Folder_1                                                                                                                                                              
-│       Hello_1.txt                                                                                                                                                                                                                                                                                                                       
-├───Folder_2                                                                                                                                                              
+│   Hello_0.txt
+├───Boom
+│       Hello.txt
+├───Folder_1
+│       Hello_1.txt
+├───Folder_2
 │      Hello_2.txt
-│                                                                                                                                                                         
-├───backup                                                                                                                                                                
-│   │   backup101.cmd                                                                                                                                                     
-│   ├───backup.101                                                                                                                                                        
-│   │   │   Hello_0.txt                                                                                                                                                   
-│   │   ├───Folder_1                                                                                                                                                      
-│   │   │       Hello_1.txt                                                                                                                                               
-│   │   └───Folder_2                                                                                                                                                      
-│   │           Hello_2.txt                                                                                                                                               
+│
+├───backup
+│   │   backup101.cmd
+│   ├───backup.101
+│   │   │   Hello_0.txt
+│   │   ├───Folder_1
+│   │   │       Hello_1.txt
+│   │   └───Folder_2
+│   │           Hello_2.txt
 │   │
-│   ├───backup.102                                                                                                                                                        
-│   │   │   Hello_0.txt                                                                                                                                                   
-│   │   ├───Folder_1                                                                                                                                                      
-│   │   │       Hello_1.txt                                                                                                                                               
-│   │   └───Folder_2                                                                                                                                                      
-│   │           Hello_2.txt                                                                                                                                               
-│   │                                                                                                                                                                     
+│   ├───backup.102
+│   │   │   Hello_0.txt
+│   │   ├───Folder_1
+│   │   │       Hello_1.txt
+│   │   └───Folder_2       
+│   │           Hello_2.txt
+│   │
 │   ├───...
 ```
 
