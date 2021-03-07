@@ -8,7 +8,7 @@ backup101 is an ultra-simple backup utility that generates full copies of the fi
 
 The clue is on its *simplicity* to work with and could not be compared with a full-blown version control system such as [GitHub](https://github.com/). It only provides a security (backup) when working on projects single-handedly. It does NOT offer merge management, distributed repository, nor any publication or add-ons coming with all popular VCS. It does allow to go back in time and play around with good versions from the past. The actual restore operation is left to the user discretion as well as the frequency of the backups.
 
-⚠️ Note that *speed* is not the name of the game here, again *simplicity* is the key, as backup101 when dealing with many folders, say more than 200, can take a couple of minutes to complete its backup activity.
+⚠️ Note that *speed* is NOT the name of the game here, again *simplicity* is the key, as backup101 when dealing with many folders, say more than 200, can take a couple of minutes to complete its backup activity.
 
 ## First Installation
 
