@@ -10,7 +10,7 @@ The clue is on its *simplicity* to work with and could not be compared with a fu
 
 ## First Installation
 
-From the [GitHub repository](https://github.com/fcathala/backup101) click on the green button "Code" and download the whole package. Chose which directory you should use (Mac or PC). This folder is the one containing backup101 and must be copied within your project folder. I do rename it to backup but you are not obliged to do so.
+From the [GitHub repository](https://github.com/fcathala/backup101) click on the green button "Code" and download the whole package. Chose which directory you should use (Mac or PC). This folder is the one containing backup101 and must be copied within your project folder. I usually rename it to "*backup*" but you are not obliged to do so.
 
 ## Project Configuration
 
@@ -28,7 +28,6 @@ C:\USERS\<YOUR_NAME>\<PROJECT_NAME>
 │                                                                                                                                                                         
 ├───backup                                                                                                                                                                
 │   │   backup101.cmd                                                                                                                                                     
-│   │                                                                                                                                                                     
 │   ├───backup.101                                                                                                                                                        
 │   │   │   Hello_0.txt                                                                                                                                                   
 │   │   ├───Folder_1                                                                                                                                                      
@@ -57,3 +56,9 @@ At the end of the script, should it be for the PC or Mac platform, you should ma
 	Xcopy ..\Folder_1 backup.101\Folder_1 /V /I
 	Xcopy ..\Folder_2 backup.101\Folder_2 /V /I
 ```
+
+## Exceution
+
+When correctly installed, launching a backup is as simple as executing a script (backup101.sh on a Mac, backup101.cmd on a PC). Then, when needed (hopefully never), you can go and browse your backup folders collection to pull the file(s) you need from a local backup done at a certain time (backup.101, backup.102, etc...).
+
+Have fun!
