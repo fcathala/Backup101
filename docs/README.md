@@ -4,16 +4,8 @@
 
 ---
 
-**Use Case**
-Create multiple versions of a folder and sub-folders.
-Snapshot backup of your working directory with versioning.
+backup101 is an ultra simple backup utility that generates copies of the files and folders you indicate into a folder structure going to up to 909 versions. This should be way enough to revert any project, should it be coding or documenting or anything to do with computer files, to a previous state.
 
-| Versioning | Changes |
-| -------------------- | ---- |
-| v2.0 ~ 07 March 2021 | Code refactoring |
-| v2.0 ~ 07 March 2021 | Each backup folder is now stored as child folder of the backup subfolder in the working directory. |
-| v2.1 | Fix bugs typically notified via [PR](https://github.com/fcathala/backup101/pulls). |
+The clue is on its *simplicity* to work with and could not be compared to full-blown version control system such as [GitHub](https://github.com/). It only provides a security (backup) when working on projects single-handedly. It does NOT offer merge management, distributed repository, nor any publication or add-ons coming with all popular VCS.
 
-The security policy is explained [here](https://github.com/fcathala/backup101/blob/main/SECURITY.md).
-You can find more details about this project [here](https://backup101.uk/).
 
