@@ -67,4 +67,4 @@ Have fun!
 
 ## Useful Links
 * [Defining a backup strategy](https://searchdatabackup.techtarget.com/definition/backup)
-* [The interest of testing](https://searchdatabackup.techtarget.com/tip/Top-3-backup-and-recovery-requirements-for-data-protection)
+* [The interest of testing in backup planning](https://searchdatabackup.techtarget.com/tip/Top-3-backup-and-recovery-requirements-for-data-protection)
